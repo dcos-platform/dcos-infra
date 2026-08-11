@@ -1,0 +1,11 @@
+# Ignore local environment overrides (may contain secrets)
+.env
+
+# macOS metadata
+.DS_Store
+
+# Editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
